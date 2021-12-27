@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="npozappxtra.nl" tvg-name="[NL] [8K] NPO 1 EXTRA" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/NPOEXTRA1.png" group-title="[NL] ALGEMEEN",[NL] [8K] NPO 1 EXTRA
-http://line.4k-eu.com:80/Stemerding59/46D395/311462
+#EXTINF:-1 tvg-ID="" tvg-name="-------- [MA] MOROCCO [HD] --------" tvg-logo="http://logo.cdn-ott.net/logo/FLAGS/flag_morocco.png" group-title="[AR] MOROCCO",-------- [MA] MOROCCO [HD] --------
+http://103.161.35.25:25461/4K_OTT_Intro.mp4
+#EXTINF:-1 tvg-ID="" tvg-name="[MA] [SD] AL AOULA INTER" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/AR/MOROCCO/ALAOULAINTER.png" group-title="[AR] MOROCCO",[MA] [SD] AL AOULA INTER
+http://line.4k-eu.com:80/Stemerding59/46D395/2189
