@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="npo1.nl" tvg-name="[NL] [8K] NPO 1 HD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/NPO1.png" group-title="[NL] ALGEMEEN",[NL] [8K] NPO 1 HD
+http://line.4k-eu.com:80/Stemerding59/46D395/311447
+#EXTINF:-1 tvg-ID="npo2.nl" tvg-name="[NL] [8K] NPO 2 HD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/NPO2.png" group-title="[NL] ALGEMEEN",[NL] [8K] NPO 2 HD
+http://line.4k-eu.com:80/Stemerding59/46D395/311451
+#EXTINF:-1 tvg-ID="npo3.nl" tvg-name="[NL] [8K] NPO 3 HD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/NPO3.png" group-title="[NL] ALGEMEEN",[NL] [8K] NPO 3 HD
+http://line.4k-eu.com:80/Stemerding59/46D395/311452
+#EXTINF:-1 tvg-ID="rtl4.nl" tvg-name="[NL] [8K] RTL 4 HD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/RTL4HD.png" group-title="[NL] ALGEMEEN",[NL] [8K] RTL 4 HD
+http://line.4k-eu.com:80/Stemerding59/46D395/311453
+#EXTINF:-1 tvg-ID="rtl5.nl" tvg-name="[NL] [8K] RTL 5 HD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/RTL5HD.png" group-title="[NL] ALGEMEEN",[NL] [8K] RTL 5 HD
+http://line.4k-eu.com:80/Stemerding59/46D395/311454
+#EXTINF:-1 tvg-ID="sbs6.nl" tvg-name="[NL] [8K] SBS 6 HD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/SBS6HD.png" group-title="[NL] ALGEMEEN",[NL] [8K] SBS 6 HD
+http://line.4k-eu.com:80/Stemerding59/46D395/311455
+#EXTINF:-1 tvg-ID="rtl7.nl" tvg-name="[NL] [8K] RTL 7 HD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/RTL7.png" group-title="[NL] ALGEMEEN",[NL] [8K] RTL 7 HD
+http://line.4k-eu.com:80/Stemerding59/46D395/311456
+#EXTINF:-1 tvg-ID="rtlz.nl" tvg-name="[NL] [8K] RTL Z HD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/RTLZHD.png" group-title="[NL] ALGEMEEN",[NL] [8K] RTL Z HD
+http://line.4k-eu.com:80/Stemerding59/46D395/311461
+#EXTINF:-1 tvg-ID="rtl8.nl" tvg-name="[NL] [8K] RTL 8 HD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/RTL8.png" group-title="[NL] ALGEMEEN",[NL] [8K] RTL 8 HD
+http://line.4k-eu.com:80/Stemerding59/46D395/311457
+#EXTINF:-1 tvg-ID="sbs9.nl" tvg-name="[NL] [8K] SBS 9 HD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/SBS9HD.png" group-title="[NL] ALGEMEEN",[NL] [8K] SBS 9 HD
+http://line.4k-eu.com:80/Stemerding59/46D395/311458
+#EXTINF:-1 tvg-ID="net5.nl" tvg-name="[NL] [8K] NET 5 HD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/NET5HD.png" group-title="[NL] ALGEMEEN",[NL] [8K] NET 5 HD
+http://line.4k-eu.com:80/Stemerding59/46D395/311459
+#EXTINF:-1 tvg-ID="veronicadisneyxd.nl" tvg-name="[NL] [8K] VERONICA HD / DISNEY XD" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/VERONICAHDDISNEYXD.png" group-title="[NL] ALGEMEEN",[NL] [8K] VERONICA HD / DISNEY XD
+http://line.4k-eu.com:80/Stemerding59/46D395/311460
+#EXTINF:-1 tvg-ID="npozappxtra.nl" tvg-name="[NL] [8K] NPO 1 EXTRA" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/NPOEXTRA1.png" group-title="[NL] ALGEMEEN",[NL] [8K] NPO 1 EXTRA
+http://line.4k-eu.com:80/Stemerding59/46D395/311462
+#EXTINF:-1 tvg-ID="100nltv.nl" tvg-name="[NL] [8K] NPO 2 EXTRA" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/NPOEXTRA2.png" group-title="[NL] ALGEMEEN",[NL] [8K] NPO 2 EXTRA
+http://line.4k-eu.com:80/Stemerding59/46D395/311463
+#EXTINF:-1 tvg-ID="nponieuws.nl" tvg-name="[NL] [8K] NPO NIEUWS" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/NPONIEUWS.png" group-title="[NL] ALGEMEEN",[NL] [8K] NPO NIEUWS
+http://line.4k-eu.com:80/Stemerding59/46D395/311464
+#EXTINF:-1 tvg-ID="npopolitiek.nl" tvg-name="[NL] [8K] NPO POLITIEK" tvg-logo="http://logo.cdn-ott.net/4KOTTLOGO/NPOPOLITIEK.png" group-title="[NL] ALGEMEEN",[NL] [8K] NPO POLITIEK
+http://line.4k-eu.com:80/Stemerding59/46D395/311465
